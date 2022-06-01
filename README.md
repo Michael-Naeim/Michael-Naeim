@@ -1,6 +1,3 @@
-<img align="right" width="300px" height="350px" src="michael.jpg">
-
-
 # Hi, I'm Michael Naeim
 
 Full-Stack | Software engineer :robot:.
