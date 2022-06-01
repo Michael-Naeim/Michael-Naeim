@@ -1,4 +1,4 @@
-<img align="right" width="auto" height="auto" src="michael.jpg">
+<img align="right" width="200px" height="200px" src="michael.jpg">
 
 
 # Hi, I'm Michael Naeim
