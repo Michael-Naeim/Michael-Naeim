@@ -3,6 +3,7 @@
 Full-Stack | Software engineer :robot:.
 
 ## About me 
+I am a person who are really passionate about making new things.
 I am a software_Engineer at Robo-tech.
 
 :heart: Graphic designer | :black_heart: Photographer | :blue_heart: Programming
