@@ -1,14 +1,13 @@
-# Hi, I'm Michael Naeim
+# Hi, I'm Michael Naeim ✨👋
 
 Full-Stack | Software engineer :robot:.
 
 ## About me 
-
+I am a software_Engineer at Robo-tech.
 :heart: Graphic designer | :black_heart: Photographer | :blue_heart: Programming
 
-- :earth_americas: I'm from Egypt -Alexandria
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
+- :earth_americas: I'm from Egypt-Alexandria.
+- :video_game: I like to play video games.
 
 
 ## Social media :mailbox_with_no_mail:
